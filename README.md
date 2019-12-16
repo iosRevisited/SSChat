@@ -1,10 +1,9 @@
 
-# Chat App | Message Bubble in iOS Swift Without any external libraries.
+# Create custom marker and custom info window in iOS using swift - Google maps
 
 
 Chat UI, Messenger UI, Create chat bubble swift 4, iOS swift 5 message bubble, Native messenger app.
 
-Tutorial For step by step tutorial follow this link: https://iosrevisited.blogspot.com/2019/12/chat-app-message-bubble-in-ios-swift.html
+Tutorial For step by step tutorial follow this link: https://iosrevisited.blogspot.com/2019/12/custom-marker-custom-info-window-maps-ios-swift.html
 
-
-![Chat App | Message Bubble in iOS Swift Without any external libraries.](https://4.bp.blogspot.com/-5Gebytlxpoc/XeZGXb5CqZI/AAAAAAAAEGw/1pbeBTF-pD4AbHODQN1IJLvPIAemX-RhwCK4BGAYYCw/s1600/ezgif.com-optimize-2.gif)
+![Create custom marker and custom info window in iOS using swift - Google maps](https://1.bp.blogspot.com/-jcz4IqTzkZA/XfezUzwF6eI/AAAAAAAAEH0/geLbaglYBiEcwkqLdptqncxvR9mbEaUwQCLcBGAsYHQ/s1600/Cutom%2BMarker%2BAnd%2BCustom%2BInfo%2BWindow.001.jpeg)
